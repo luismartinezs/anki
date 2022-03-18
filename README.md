@@ -1,3 +1,5 @@
+# Anki card creator helper
+
 ## Setup
 
 - Install VSCODE
@@ -39,3 +41,12 @@ let item = arr.find(
 
 - Once you have your set of cards, `ctrl+shift+P`, then type `Deck`. Select `Anki: Send to Own Deck`.
 - Your cards should be now in Anki ready to study
+
+## Tips
+
+- Format cards with `ctrl+shift+I` (Linux). I've configured the line width to fit anki card, so text will autowrap on format.
+  - You can change this configuration in the file `.vscode/settings.json`
+- Leave a blank line in between lines of text that should not merge on formatting. See the example in [anki-example.md](./anki-example.md)
+- Open a preview side to side, to see how cards will look (`ctrl+K, V` on Linux)
+- Don't use ## or % in an empty line inside a card
+- Wrap any code in ` for inline code, or in ``` for a code block. See the example in [anki-example.md](./anki-example.md)
