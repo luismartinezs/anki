@@ -1,4 +1,5 @@
 {
   "printWidth": 38,
-  "proseWrap": "always"
+  "proseWrap": "always",
+  "bracketSameLine": false
 }

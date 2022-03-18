@@ -50,3 +50,4 @@ let item = arr.find(
 - Open a preview side to side, to see how cards will look (`ctrl+K, V` on Linux)
 - Don't use ## or % in an empty line inside a card
 - Wrap any code in ` for inline code, or in ``` for a code block. See the example in [anki-example.md](./anki-example.md)
+- Leave an empty line before and after % so autoformatting doesn't mess up with it
