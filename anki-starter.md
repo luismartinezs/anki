@@ -2,11 +2,11 @@
 
 ##
 
-Front of card here, don't remove blank lines
+Front of card here, don't remove blank lines above and below this
 
 %
 
-Back of card here, don't remove blank lines
+Back of card here, don't remove blank lines above and below this
 
 []()
 
