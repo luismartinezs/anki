@@ -42,6 +42,10 @@ let item = arr.find(
 - Once you have your set of cards, `ctrl+shift+P`, then type `Deck`. Select `Anki: Send to Own Deck`.
 - Your cards should be now in Anki ready to study
 
+## Quickly add cards
+
+To quicky add a card to a markdown file, type `anki`, and from the autosuggestions, select either `anki-new-card` or `anki-new-card-with-code`.
+
 ## Tips
 
 - Format cards with `ctrl+shift+I` (Linux). I've configured the line width to fit anki card, so text will autowrap on format.

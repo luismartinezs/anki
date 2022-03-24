@@ -1,0 +1,40 @@
+{
+	"Add new card": {
+		"scope": "markdown",
+		"prefix": ["anki-new-card"],
+		"body": [
+			"",
+			"##",
+			"",
+			"${1:front}",
+			"",
+			"%",
+			"",
+			"${2:back}",
+			"",
+			"[#${3:tag}]()"
+		],
+		"description": "Add new Anki card"
+	},
+	"Add new card with code snippet": {
+		"scope": "markdown",
+		"prefix": ["anki-new-card-with-code"],
+		"body": [
+			"",
+			"##",
+			"",
+			"```${1:lang}",
+			"${2:front}",
+			"```",
+			"",
+			"%",
+			"",
+			"```${1:lang}",
+			"${3:back}",
+			"```",
+			"",
+			"[#${1:lang}]()"
+		],
+		"description": "Add new Anki card with code snippet"
+	}
+}

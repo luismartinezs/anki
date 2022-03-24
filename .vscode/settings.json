@@ -1,7 +1,9 @@
 {
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[markdown]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.quickSuggestions": true,
+    "editor.acceptSuggestionOnEnter": "on"
   },
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -10,5 +12,5 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "editor.insertSpaces": true,
-  "editor.tabSize": 2,
+  "editor.tabSize": 2
 }
