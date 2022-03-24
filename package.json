@@ -1,0 +1,19 @@
+{
+  "name": "anki",
+  "version": "1.0.0",
+  "description": "Anki template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luismartinezs/anki.git"
+  },
+  "keywords": [
+    "anki",
+    "template"
+  ],
+  "author": "Luis Martinez Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luismartinezs/anki/issues"
+  },
+  "homepage": "https://github.com/luismartinezs/anki#readme"
+}
