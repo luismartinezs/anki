@@ -36,5 +36,12 @@
 			"[#${1:lang}]()"
 		],
 		"description": "Add new Anki card with code snippet"
+	},
+	"Add new tag": {
+		"scope": "markdown",
+		"prefix": ["anki-new-tag"],
+		"body": [
+			" [#${1:tag}]() "
+		],
 	}
 }
